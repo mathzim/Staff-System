@@ -1,0 +1,24 @@
+MTA - COMANDOS STAFF AVANÇADO
+
+Creditos: Augusto
+Augusto Dev: https://discord.gg/haMqHTCWNC
+Github: https://github.com/AugustoD3v
+
+COMANDOS E FUNÇÕES
+Fly - Permite que o jogador possa voar atravessando paredes (/fly)
+Invisible - Deixa o staff invisivel (/v)
+Setskin - Comando para o staff trocar a skin de qualquer player via ID (/ss {id do alvo} {id da skin})
+Life - Seta a vida do jogador para a quantidade indicada (/life {id do alvo} {vida que o jogador ira ficar})
+Fix - Conserta o veiculo do jogador (/fix {id do alvo})
+Destroy Vehicle - Destroi o veiculo do jogador (/dv {id do alvo})
+Armor - Seta o colete do jogador para a quantidade indicada (/armor {id do alvo} {colete que o jogador ira ficar})
+Kick - Expulsa o jogador do servidor (/kick {id do alvo} {motivo do kick})
+Create Vehicle - Cria um veiculo para o jogador mencionado (/veh {id do alvo} {id do veiculo})
+Ban - Bane o jogador do servidor (/banir {id do alvo} {motivo} {tempo de ban (em segundos)})
+Avisar - Da um aviso ao jogador (/avisar {id do alvo} {aviso})
+Rename - Troca o nick do jogador (/tn {id do alvo} {novo nick})
+Tp - Teleporta o staff para o jogador (/tp {id do alvo})
+Puxar - Teleporta o jogador ate voce (/puxar {id do alvo})
+Take Weapons - Remove todas as armas do jogador (/tw {id do alvo})
+Give Weapon - Da uma arma para o jogador (/gw {id do alvo} {id da arma} {quantidade de munições})
+Hold Veh - Segura o veiculo acima da cabeça (/hv Perto do veiculo)

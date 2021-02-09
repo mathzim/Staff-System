@@ -1,0 +1,5 @@
+<meta>
+	<script src="gAugusto.lua" type="shared"/>
+	<script src="cAugusto.lua" type="client"/>
+	<script src="sAugusto.lua" type="server"/>
+</meta>
